@@ -1,0 +1,21 @@
+.env
+
+# build directory
+/target/
+
+# project files
+*.iml
+.idea/
+*.classpath
+*.project
+*.settings/
+
+.DS_Store
+
+*.log
+
+# Application properties (if you ever use local overrides)
+application-local.properties
+
+# Other secrets/examples
+*.env.*
